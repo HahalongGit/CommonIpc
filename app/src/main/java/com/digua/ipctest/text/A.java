@@ -9,6 +9,7 @@ package com.digua.ipctest.text;
  */
 
 public class A {
+
     private String name;
 
     public String getName() {
